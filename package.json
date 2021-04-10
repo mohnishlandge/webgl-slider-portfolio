@@ -1,0 +1,21 @@
+{
+  "name": "05-bruno-arizio-case-study-infinite-scrolling-with-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "gsap": "2.1.3",
+    "lodash": "4.17.15",
+    "normalize-wheel": "1.0.1",
+    "three": "0.111.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
