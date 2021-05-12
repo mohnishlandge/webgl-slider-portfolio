@@ -5,7 +5,7 @@ import Canvas from './Canvas'
 class App {
   constructor() {
     this.images = [
-      'https://mir-s3-cdn-cf.behance.net/project_modules/1400/4f747b119363901.609be2e71692d.png',
+      'https://mir-s3-cdn-cf.behance.net/project_modules/fs/4f747b119363901.609be2e71692d.png',
       'https://mir-s3-cdn-cf.behance.net/project_modules/fs/f612d3119363901.609be2e7172c1.png',
       'https://mir-s3-cdn-cf.behance.net/project_modules/fs/3cc2c5119363901.609be2e717889.png',
       'https://mir-s3-cdn-cf.behance.net/project_modules/fs/826435119363901.609be2e714522.png',
@@ -13,8 +13,8 @@ class App {
       'https://mir-s3-cdn-cf.behance.net/project_modules/fs/6aa849119363901.609be2e70d651.png',
       'https://mir-s3-cdn-cf.behance.net/project_modules/fs/4b3add119363901.609be2e717e95.png',
       'https://mir-s3-cdn-cf.behance.net/project_modules/fs/8e0d5a119363901.609be2e713c16.png',
-      'https://mir-s3-cdn-cf.behance.net/project_modules/fs/c05840119363901.609be2e714cfb.png',
       'https://mir-s3-cdn-cf.behance.net/project_modules/fs/43f3ba119363901.609be2e715b84.png',
+      'https://mir-s3-cdn-cf.behance.net/project_modules/fs/c05840119363901.609be2e714cfb.png',
     ]
 
     this.mouse = {
