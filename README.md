@@ -4,7 +4,7 @@
 
 ![Image Title](https://github.com/mohnishlandge/webgl-assets/blob/main/Screenshot%20(177).png)
 
-[Youtube Setup Video](https://youtu.be/c/iviixio)
+[Youtube Setup Video](https://www.youtube.com/c/iviixio)
 
 [Demo](https://webgl-scroll.netlify.app/)
 
@@ -43,7 +43,7 @@ yarn build
 
 Follow *@iviixio*: [Twitter](https://twitter.com/iviixio), [Instagram](https://www.instagram.com/iviixio/)
 
-Youtube Video: [Twitter](https://youtu.be/c/iviixio)
+Youtube Video: [Twitter](https://www.youtube.com/c/iviixio)
 
 ## License
 [MIT](LICENSE)
