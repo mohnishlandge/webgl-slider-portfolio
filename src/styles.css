@@ -19,5 +19,4 @@ body:active {
 
 canvas {
   display: block;
-  filter: contrast(0.85);
 }
