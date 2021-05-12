@@ -14,7 +14,7 @@ class App {
       'https://raw.githubusercontent.com/mohnishlandge/webgl-assets/main/Slide%2016_9%20-%207.png',
       'https://raw.githubusercontent.com/mohnishlandge/webgl-assets/main/Slide%2016_9%20-%208.png',
       'https://raw.githubusercontent.com/mohnishlandge/webgl-assets/main/Slide%2016_9%20-%209.png',
-      'https://raw.githubusercontent.com/mohnishlandge/webgl-assets/main/Slide%2016_9%20-%210.png',
+      'https://raw.githubusercontent.com/mohnishlandge/webgl-assets/main/Slide%2016_9%20-%2010.png',
     ]
 
     this.mouse = {
