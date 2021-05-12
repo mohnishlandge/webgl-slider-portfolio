@@ -2,7 +2,7 @@
 
 *WebGL Experience*
 
-![Image Title](https://github.com/mohnishlandge/webgl-assets/blob/main/Screenshot%20(177).png)
+//![Image Title](https://github.com/mohnishlandge/webgl-assets/blob/main/Screenshot%20(177).png)
 
 [Youtube Setup Video](https://www.youtube.com/c/iviixio)
 
