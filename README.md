@@ -3,7 +3,7 @@
 *WebGL Experience*
 
 
-[Youtube Setup Video](https://www.youtube.com/c/iviixio)
+[Youtube Setup Video](https://youtu.be/X_y_TJXmRo0)
 
 [Demo](https://webgl-scroll.netlify.app/)
 
@@ -36,7 +36,7 @@ yarn build
 
 ## Credits
 
-- [Webpack THREE.js Template](https://github.com/brunosimon/webpack-three-js-template)
+- [Luis Bizarro - WebGL Breakdown](https://tympanus.net/codrops/author/lhbzr/)
 
 ## Misc
 
